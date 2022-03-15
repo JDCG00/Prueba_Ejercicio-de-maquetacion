@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#contenedor{
+    background: rgb(226, 180, 166);
+    height: 300px;
+    width: 1100px;
+    border: 1px solid red;   
+}
+#izq{
+    height: 150px;
+    /* width: 500px; */
+    width: 45.4545%;
+    border: 1px solid rgb(25, 0, 255); 
+    float: left;
+    /* padding: 20px; */
+    padding: 1.8181%;
+}
+#der{
+    height: 150px;
+    width: 500px;
+    border: 1px solid rgb(0, 255, 136); 
+    /* float: right; */
+    padding: 20px;
+}
+#footer{
+    height: 40px;
+    width: 1000px;
+    border: 1px solid rgb(200, 255, 0); 
+    clear: left right;
+}
