@@ -18,6 +18,8 @@
     float: left;
     /* padding: 20px; */
     padding: 1.8181%;
+    /* margin: 20px; */
+    margin: 1.8181%;
 }
 #der{
     height: 150px;
@@ -25,6 +27,7 @@
     border: 1px solid rgb(0, 255, 136); 
     /* float: right; */
     padding: 20px;
+    margin: 20px;
 }
 #footer{
     height: 40px;
